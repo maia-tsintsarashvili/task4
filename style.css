@@ -15,8 +15,6 @@ header
 .nav
 {
  
- font-color: #717276;
-
  font-family: ALK Life;
 font-size: 24px;
 font-style: normal;
@@ -40,7 +38,7 @@ a{
 .women
 {
 
-margin: 160px; 130px;
+margin: 160px;
 
 }
 
@@ -75,7 +73,6 @@ align-items: flex-end;
 width: 380px;
 height: 512px;
 flex-shrink: 0;
-margin: 
 
 }
 .pic2{
